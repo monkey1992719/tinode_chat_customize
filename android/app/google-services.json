@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048161371045",
+    "firebase_url": "https://tinode-b68b3.firebaseio.com",
+    "project_id": "tinode-b68b3",
+    "storage_bucket": "tinode-b68b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048161371045:android:578c0bc3c76c2400ca1e4c",
+        "android_client_info": {
+          "package_name": "com.techflake.tinode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048161371045-1mjd28p40e29gqgm3e9qha9t6k56lvdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techflake.tinode",
+            "certificate_hash": "bb77d99fa270fa55bb45bf151e966e0c5597416e"
+          }
+        },
+        {
+          "client_id": "1048161371045-08udq1tb8km6ubmu18emq125m8nvvq19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJESON7XVPa_f6D3oAS-5AoC57Sn4QkfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048161371045-08udq1tb8km6ubmu18emq125m8nvvq19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
